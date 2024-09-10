@@ -4,5 +4,5 @@ def print_hello():
 if __name__ == '__main__':
     print_hello()
 
-def print_retsha():
+def print_ressha():
     print("Can't take your time. What you waiting for?")
