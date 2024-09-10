@@ -6,3 +6,12 @@ if __name__ == '__main__':
 
 def print_ressha():
     print("Can't take your time. What you waiting for?")
+
+if __name__ == '__main__':
+    print_ressha()
+
+def print_CM():
+    print('Just hold on tihgt. It can be alright. We take it back')
+
+if __name__ == '__main__':
+    print_CM()
